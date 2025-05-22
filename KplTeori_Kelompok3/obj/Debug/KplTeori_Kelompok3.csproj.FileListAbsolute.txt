@@ -1,0 +1,7 @@
+E:\KPL\KplTeori_Kelompok3\KplTeori_Kelompok3\obj\Debug\KplTeori_Kelompok3.csproj.AssemblyReference.cache
+E:\KPL\KplTeori_Kelompok3\KplTeori_Kelompok3\obj\Debug\KplTeori_Kelompok3.csproj.CoreCompileInputs.cache
+E:\KPL\KplTeori_Kelompok3\KplTeori_Kelompok3\bin\Debug\KplTeori_Kelompok3.exe.config
+E:\KPL\KplTeori_Kelompok3\KplTeori_Kelompok3\bin\Debug\KplTeori_Kelompok3.exe
+E:\KPL\KplTeori_Kelompok3\KplTeori_Kelompok3\bin\Debug\KplTeori_Kelompok3.pdb
+E:\KPL\KplTeori_Kelompok3\KplTeori_Kelompok3\obj\Debug\KplTeori_Kelompok3.exe
+E:\KPL\KplTeori_Kelompok3\KplTeori_Kelompok3\obj\Debug\KplTeori_Kelompok3.pdb
